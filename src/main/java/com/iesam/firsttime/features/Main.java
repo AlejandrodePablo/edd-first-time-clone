@@ -6,6 +6,7 @@ import com.iesam.firsttime.features.welcome.presentation.WelcomePresentation;
 
 public class Main {
 
+    //CAMBIANDO PARA Q SALGA EN MI REPOSITORIO
     public static void main(String[] args) {
         AppConfigPresentation.appOpened();
         WelcomePresentation.showWelcomeMessage();
